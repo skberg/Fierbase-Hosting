@@ -1,4 +1,4 @@
-# berg-code-club
+# Code-club
 
 ## Project setup
 ```
